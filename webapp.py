@@ -78,7 +78,8 @@ navbar = dbc.NavbarSimple(
     ],
     brand="prefscltl2pdfa translator",
     brand_href="/",
-    color="primary",
+    # color="primary",
+    color="#800000",
     dark=True,
     style={
         "font-weight": "bold",
